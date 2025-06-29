@@ -3,12 +3,12 @@
 A modular Python project that scrapes tennis match data, engineers features, trains machine‑learning models
 to predict match outcomes, and evaluates betting value.
 
-## Quick start
+## Quick start
 
 ```bash
 # 1. Create virtual environment
-python -m venv .venv
-source .venv/bin/activate          # On Windows use: .venv\Scripts\activate
+python -m venv venv
+source venv/bin/activate          # On Windows use: venv\Scripts\activate
 
 # 2. Install requirements
 pip install -r requirements.txt
