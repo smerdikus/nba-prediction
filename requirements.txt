@@ -1,0 +1,10 @@
+pandas>=1.5
+numpy
+scikit-learn
+xgboost
+requests
+beautifulsoup4
+lxml
+python-dotenv
+joblib
+tqdm
